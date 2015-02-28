@@ -1,7 +1,9 @@
 # Themes
-Games will have a cohesive theme to see how players interpret things
+
+Give the games a cohesive theme to see how differently players interpret things
 
 ## Examples
-underwater sea robots
-ninja's and jellybeans
-pirates with tigers
+
+- underwater sea robots
+- ninja's and jellybeans
+- pirates with tigers
